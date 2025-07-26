@@ -35,5 +35,4 @@ This project aims to **provide an early warning system** using machine learning 
 
 ---
 
-## 📂 Project Structure
 
